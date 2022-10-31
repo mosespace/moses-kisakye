@@ -15,6 +15,19 @@ I will continue to work to achieve even more and make full use of all the facili
 - 🌱 I’m currently learning all the above interests and you are more appreciated for any help if your reading this.
 - 💞️ I’m looking forward to collaborating on all events and all programs as to come.
 
+<details>
+<summary>My top languages</summary>
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| Python    |
+|     2| Html      |
+|     3| Bootstrap |
+|     4| JavaScript |
+|     5| Css        |
+  
+</details>
+
 ### Click on any of the links of your choice to connect with me. I will be glad to see you.
 
 [![Twitter](https://img.shields.io/badge/twitter-@kisakyemose--twitter-9cf.svg)](https://twitter.com/bantu_creative)
