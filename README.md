@@ -14,6 +14,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?label=LinkedIn&logo=LinkedIn&style=for-the-badge" />
   </a>
 
+  <a href="https://www.telegram.com/in/bantu_creative/">
+    <img src="https://img.shields.io/badge/Telegram-blue?label=Telegram&logo=Telegram&style=for-the-badge" />
+  </a>
+
 </p>
 
 ## My GitHub Stats &#x1f4c8;
