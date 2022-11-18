@@ -2,7 +2,7 @@
 
 <h2 align="center">Hi, there 👋</h2>
 
-<p align="center">I'm Moses also known as python guy<br/> Computer Scientist and a <b>huge</b> fan of System Design, Open-Source and Events. The future needs more programmers — follow me to learn more about my adventures as a programmer! .</p>
+<p align="center">I'm <b>Kisakye Moses</b> also known as <b>Python Guy</b>a computer Scientist and a <b>huge</b> fan of System Design, Open-Source and Events. The future needs more programmers — follow me to learn more about my adventures as a programmer! .</p>
 </p>
 
 <p align="center">
